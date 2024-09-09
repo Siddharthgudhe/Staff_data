@@ -18,11 +18,13 @@ Visualization: Plotted histograms to visualize data distributions.
 Advanced Analysis: Identified high-income employees, calculated median income, and examined performance ratings and job satisfaction.
 
 Dependencies:
+
 pandas
 matplotlib (for plotting)
 
 
 How to Run:
+
 Clone this repository.
 Ensure you have the required Python libraries installed.
 Run the provided Jupyter notebooks or Python scripts to perform the analysis.
