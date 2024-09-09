@@ -2,6 +2,7 @@
 Pandas Staff Data Analysis Assignment:
 
 Overview:
+
 This repository contains a comprehensive analysis of an HR dataset using Python's Pandas library. The analysis covers various data manipulation and statistical tasks to gain insights into employee attributes, performance, and other related metrics.
 Tasks Performed:
 Data Loading and Inspection: Loaded the dataset and displayed the initial rows along with basic information about the dataset's structure.
